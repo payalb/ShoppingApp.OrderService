@@ -1,0 +1,546 @@
+12:01 00:00:50.097 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 00:00:50.097 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 00:00:51.806 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 1.729 seconds (JVM running for 7471.41)
+12:01 00:00:51.809 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:00:51.828 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:00:51.828 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:00:51.831 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:00:51.831 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:00:51.833 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:00:51.833 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:00:51.835 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:01:22.270 [http-nio-8082-exec-2] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateStatusById
+12:01 00:01:57.278 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 00:01:57.279 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 00:01:59.281 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 2.029 seconds (JVM running for 7538.886)
+12:01 00:01:59.286 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:01:59.368 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:01:59.368 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:01:59.389 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:01:59.389 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:01:59.393 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:01:59.393 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:01:59.396 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:02:17.210 [http-nio-8082-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateStatusById
+12:01 00:02:18.945 [http-nio-8082-exec-2] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateStatusById
+12:01 00:02:53.623 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 00:02:53.624 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 00:02:56.487 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 2.903 seconds (JVM running for 7596.092)
+12:01 00:02:56.491 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:02:56.500 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:02:56.500 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:02:56.503 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:02:56.503 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:02:56.505 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:02:56.505 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:02:56.508 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:03:12.141 [http-nio-8082-exec-3] [INFO] [c.e.demo.service.LoggingService] - Inside methodfindOrderByUsername
+12:01 00:04:42.230 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 00:04:42.230 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 00:04:43.852 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 1.643 seconds (JVM running for 7703.457)
+12:01 00:04:43.856 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:04:43.865 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:04:43.865 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:04:43.867 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:04:43.867 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:04:43.870 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:04:43.870 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:04:43.872 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:04:54.462 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 00:04:54.462 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 00:04:56.571 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 2.13 seconds (JVM running for 7716.176)
+12:01 00:04:56.580 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:04:56.590 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:04:56.590 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:04:56.593 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:04:56.593 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:04:56.597 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:04:56.597 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:04:56.600 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:06:02.661 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 00:06:02.661 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 00:06:05.230 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 2.613 seconds (JVM running for 7784.835)
+12:01 00:06:05.235 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:06:05.245 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:06:05.245 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:06:05.248 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:06:05.248 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:06:05.252 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:06:05.252 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:06:05.255 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:06:44.150 [http-nio-8082-exec-4] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateStatusById
+12:01 00:06:44.347 [http-nio-8082-exec-4] [INFO] [c.e.demo.service.LoggingService] - Exiting methodupdateStatusById
+12:01 00:07:15.568 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 00:07:15.568 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 00:07:17.342 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 1.797 seconds (JVM running for 7856.947)
+12:01 00:07:17.346 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:07:17.353 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:07:17.353 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:07:17.356 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:07:17.356 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:07:17.358 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:07:17.358 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:07:17.360 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:07:30.445 [http-nio-8082-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodfindOrderByUsername
+12:01 00:07:30.449 [http-nio-8082-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodfindOrderByUsername
+12:01 00:08:50.279 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 00:08:50.279 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 00:08:52.702 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 2.452 seconds (JVM running for 7952.307)
+12:01 00:08:52.707 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:08:52.716 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:08:52.716 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:08:52.719 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:08:52.719 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:08:52.723 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:08:52.723 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:08:52.726 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:08:54.684 [http-nio-8082-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateStatusById
+12:01 00:08:54.690 [http-nio-8082-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodupdateStatusById
+12:01 00:08:59.059 [http-nio-8082-exec-2] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateStatusById
+12:01 00:08:59.062 [http-nio-8082-exec-2] [INFO] [c.e.demo.service.LoggingService] - Exiting methodupdateStatusById
+12:01 00:09:01.218 [http-nio-8082-exec-3] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateStatusById
+12:01 00:09:01.220 [http-nio-8082-exec-3] [INFO] [c.e.demo.service.LoggingService] - Exiting methodupdateStatusById
+12:01 00:09:25.404 [http-nio-8082-exec-5] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateStatusById
+12:01 00:09:25.408 [http-nio-8082-exec-5] [INFO] [c.e.demo.service.LoggingService] - Exiting methodupdateStatusById
+12:01 00:13:22.771 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 00:13:22.771 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 00:13:24.935 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 2.199 seconds (JVM running for 8224.539)
+12:01 00:13:24.939 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:13:24.946 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:13:24.946 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:13:24.949 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:13:24.949 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:13:24.952 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:13:24.952 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:13:24.955 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:13:29.440 [http-nio-8082-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateStatusById
+12:01 00:13:29.445 [http-nio-8082-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodupdateStatusById
+12:01 00:17:26.193 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 00:17:26.193 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 00:17:28.232 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 2.059 seconds (JVM running for 8467.837)
+12:01 00:17:28.238 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:17:28.249 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:17:28.249 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:17:28.252 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:17:28.252 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:17:28.256 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:17:28.257 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:17:28.261 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:17:28.423 [http-nio-8082-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateStatusById
+12:01 00:17:28.427 [http-nio-8082-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodupdateStatusById
+12:01 00:17:31.181 [http-nio-8082-exec-2] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateStatusById
+12:01 00:17:31.204 [http-nio-8082-exec-2] [INFO] [c.e.demo.service.LoggingService] - Exiting methodupdateStatusById
+12:01 00:17:32.788 [http-nio-8082-exec-3] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateStatusById
+12:01 00:17:32.791 [http-nio-8082-exec-3] [INFO] [c.e.demo.service.LoggingService] - Exiting methodupdateStatusById
+12:01 00:17:42.628 [http-nio-8082-exec-5] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateStatusById
+12:01 00:17:42.653 [http-nio-8082-exec-5] [INFO] [c.e.demo.service.LoggingService] - Exiting methodupdateStatusById
+12:01 00:18:10.216 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 00:18:10.217 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 00:18:17.060 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 00:18:17.061 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 00:18:20.042 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 3.013 seconds (JVM running for 8519.647)
+12:01 00:18:20.048 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:18:20.067 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:18:20.067 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:18:20.070 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:18:20.070 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:18:20.073 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:18:20.073 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:18:20.076 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:18:24.513 [http-nio-8082-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateStatusById
+12:01 00:18:24.516 [http-nio-8082-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodupdateStatusById
+12:01 00:18:26.705 [http-nio-8082-exec-2] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateStatusById
+12:01 00:18:26.752 [http-nio-8082-exec-2] [INFO] [c.e.demo.service.LoggingService] - Exiting methodupdateStatusById
+12:01 00:26:01.446 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 00:26:01.446 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 00:26:03.581 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 2.169 seconds (JVM running for 8983.185)
+12:01 00:26:03.585 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:26:03.609 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:26:03.609 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:26:03.632 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:26:03.633 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:26:03.656 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:26:03.657 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:26:03.684 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:26:08.544 [http-nio-8082-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateStatusById
+12:01 00:26:08.547 [http-nio-8082-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodupdateStatusById
+12:01 00:29:01.590 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 00:29:01.590 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 00:29:03.730 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 2.175 seconds (JVM running for 9163.335)
+12:01 00:29:03.735 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:29:03.743 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:29:03.743 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:29:03.746 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:29:03.747 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:29:03.749 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:29:03.749 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:29:03.752 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:29:35.322 [http-nio-8082-exec-2] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateAmountById
+12:01 00:30:14.124 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 00:30:14.124 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 00:30:16.526 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 2.43 seconds (JVM running for 9236.132)
+12:01 00:30:16.531 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:30:16.539 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:30:16.539 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:30:16.542 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:30:16.542 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:30:16.545 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:30:16.545 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:30:16.548 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:30:19.047 [http-nio-8082-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateAmountById
+12:01 00:30:19.051 [http-nio-8082-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodupdateAmountById
+12:01 00:30:22.148 [http-nio-8082-exec-2] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateAmountById
+12:01 00:30:22.151 [http-nio-8082-exec-2] [INFO] [c.e.demo.service.LoggingService] - Exiting methodupdateAmountById
+12:01 00:32:37.024 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 00:32:37.024 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 00:32:39.174 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 2.18 seconds (JVM running for 9378.779)
+12:01 00:32:39.179 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:32:39.187 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:32:39.187 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:32:39.190 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:32:39.190 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:32:39.193 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:32:39.193 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:32:39.196 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:32:39.225 [http-nio-8082-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateAmountById
+12:01 00:32:39.228 [http-nio-8082-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodupdateAmountById
+12:01 00:32:39.975 [http-nio-8082-exec-2] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateAmountById
+12:01 00:32:39.979 [http-nio-8082-exec-2] [INFO] [c.e.demo.service.LoggingService] - Exiting methodupdateAmountById
+12:01 00:32:47.092 [http-nio-8082-exec-3] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateAmountById
+12:01 00:32:47.095 [http-nio-8082-exec-3] [INFO] [c.e.demo.service.LoggingService] - Exiting methodupdateAmountById
+12:01 00:34:21.254 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 00:34:21.254 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 00:34:23.636 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 2.407 seconds (JVM running for 9483.241)
+12:01 00:34:23.641 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:34:23.649 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:34:23.649 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:34:23.652 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:34:23.652 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:34:23.655 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:34:23.655 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:34:23.658 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:34:34.179 [http-nio-8082-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateAmountById
+12:01 00:34:34.183 [http-nio-8082-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodupdateAmountById
+12:01 00:34:35.770 [http-nio-8082-exec-2] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateAmountById
+12:01 00:34:35.773 [http-nio-8082-exec-2] [INFO] [c.e.demo.service.LoggingService] - Exiting methodupdateAmountById
+12:01 00:38:05.667 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 00:38:05.667 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 00:38:08.144 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 2.503 seconds (JVM running for 9707.748)
+12:01 00:38:08.148 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:38:08.156 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:38:08.156 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:38:08.158 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:38:08.158 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:38:08.161 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:38:08.161 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:38:08.163 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:38:17.767 [http-nio-8082-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateAmountById
+12:01 00:38:17.770 [http-nio-8082-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodupdateAmountById
+12:01 00:38:33.735 [http-nio-8082-exec-2] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateStatusById
+12:01 00:38:33.748 [http-nio-8082-exec-2] [INFO] [c.e.demo.service.LoggingService] - Exiting methodupdateStatusById
+12:01 00:40:25.154 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 00:40:25.154 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 00:40:27.447 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 2.319 seconds (JVM running for 9847.051)
+12:01 00:40:27.451 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:40:27.458 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:40:27.458 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:40:27.461 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:40:27.461 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:40:27.463 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:40:27.463 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:40:27.465 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:40:31.011 [http-nio-8082-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateStatusById
+12:01 00:40:31.015 [http-nio-8082-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodupdateStatusById
+12:01 00:45:50.192 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 00:45:50.192 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 00:45:52.933 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 2.774 seconds (JVM running for 10172.538)
+12:01 00:45:52.937 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:45:52.945 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:45:52.946 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:45:52.948 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:45:52.948 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:45:52.951 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:45:52.951 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:45:52.955 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:46:01.045 [http-nio-8082-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateStatusById
+12:01 00:47:53.586 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 00:47:53.587 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 00:47:55.898 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 2.345 seconds (JVM running for 10295.503)
+12:01 00:47:55.902 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:47:55.940 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:47:55.940 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:47:55.953 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:47:55.953 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:47:55.965 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:47:55.965 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:47:55.977 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:47:56.089 [http-nio-8082-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateStatusById
+12:01 00:50:29.112 [http-nio-8082-exec-4] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateStatusById
+12:01 00:53:26.433 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 00:53:26.434 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 00:53:29.512 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 3.099 seconds (JVM running for 10629.117)
+12:01 00:53:29.515 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:53:29.522 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:53:29.522 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:53:29.524 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:53:29.524 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:53:29.526 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:53:29.526 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:53:29.529 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:53:33.373 [http-nio-8082-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateStatusById
+12:01 00:54:24.848 [http-nio-8082-exec-3] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateAmountById
+12:01 00:57:23.285 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 00:57:23.285 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 00:57:34.388 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 11.124 seconds (JVM running for 10873.992)
+12:01 00:57:34.409 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:57:34.443 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:57:34.444 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:57:34.467 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:57:34.468 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:57:34.478 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:57:34.478 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:57:34.489 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:57:34.529 [http-nio-8082-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateAmountById
+12:01 00:57:34.542 [http-nio-8082-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodupdateAmountById
+12:01 00:58:48.314 [http-nio-8082-exec-3] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateAmountById
+12:01 00:58:48.318 [http-nio-8082-exec-3] [INFO] [c.e.demo.service.LoggingService] - Exiting methodupdateAmountById
+12:01 00:59:01.213 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 00:59:01.213 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 00:59:03.978 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 2.787 seconds (JVM running for 10963.583)
+12:01 00:59:03.982 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:59:03.989 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:59:03.990 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:59:03.992 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:59:03.992 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:59:03.994 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:59:03.994 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:59:03.996 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:59:09.999 [http-nio-8082-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateStatusById
+12:01 00:59:10.007 [http-nio-8082-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodupdateStatusById
+12:01 00:59:22.750 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 00:59:22.750 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 00:59:25.413 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 2.682 seconds (JVM running for 10985.018)
+12:01 00:59:25.420 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:59:25.433 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:59:25.433 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:59:25.437 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:59:25.437 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:59:25.441 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:59:25.441 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 00:59:25.446 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 00:59:28.301 [http-nio-8082-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateStatusById
+12:01 00:59:28.304 [http-nio-8082-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodupdateStatusById
+12:01 01:01:23.907 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 01:01:23.907 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 01:01:27.168 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 3.284 seconds (JVM running for 11106.772)
+12:01 01:01:27.178 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 01:01:27.192 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 01:01:27.192 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 01:01:27.197 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 01:01:27.197 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 01:01:27.202 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 01:01:27.202 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 01:01:27.206 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 01:01:34.523 [http-nio-8082-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateStatusById
+12:01 01:01:34.526 [http-nio-8082-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodupdateStatusById
+12:01 01:03:46.119 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 01:03:46.119 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 01:03:52.539 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 6.443 seconds (JVM running for 11252.144)
+12:01 01:03:52.555 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 01:03:52.580 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 01:03:52.580 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 01:03:52.588 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 01:03:52.588 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 01:03:52.596 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 01:03:52.596 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 01:03:52.604 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 01:05:18.102 [http-nio-8082-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateStatusById
+12:01 01:05:18.107 [http-nio-8082-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodupdateStatusById
+12:01 01:07:10.548 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 01:07:10.548 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 01:07:13.893 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 3.368 seconds (JVM running for 11453.497)
+12:01 01:07:13.898 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 01:07:13.908 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 01:07:13.908 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 01:07:13.911 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 01:07:13.911 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 01:07:13.914 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 01:07:13.914 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 01:07:13.917 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 01:12:47.642 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 01:12:47.642 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 01:12:50.719 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 3.104 seconds (JVM running for 11790.323)
+12:01 01:12:50.723 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 01:12:50.732 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 01:12:50.732 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 01:12:50.735 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 01:12:50.735 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 01:12:50.738 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 01:12:50.738 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 01:12:50.741 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 01:12:53.556 [http-nio-8082-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateStatusById
+12:01 01:12:53.560 [http-nio-8082-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodupdateStatusById
+12:01 01:13:34.951 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 01:13:34.951 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 01:13:37.026 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 2.096 seconds (JVM running for 11836.631)
+12:01 01:13:37.035 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 01:13:37.042 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 01:13:37.042 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 01:13:37.044 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 01:13:37.044 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 01:13:37.047 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 01:13:37.047 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 01:13:37.049 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 01:13:54.637 [http-nio-8082-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateStatusById
+12:01 01:14:55.576 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 01:14:55.576 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 01:14:58.500 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 2.946 seconds (JVM running for 11918.105)
+12:01 01:14:58.512 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 01:14:58.531 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 01:14:58.531 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 01:14:58.537 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 01:14:58.537 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 01:14:58.542 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 01:14:58.542 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 01:14:58.547 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 01:15:47.898 [http-nio-8082-exec-2] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateStatusById
+12:01 01:15:47.911 [http-nio-8082-exec-2] [INFO] [c.e.demo.service.LoggingService] - Exiting methodupdateStatusById
+12:01 01:18:58.032 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 01:18:58.033 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 01:19:30.557 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 01:19:30.558 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 01:20:15.897 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 01:20:15.897 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 01:20:18.700 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 2.851 seconds (JVM running for 12238.304)
+12:01 01:20:18.704 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 01:20:18.710 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 01:20:18.710 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 01:20:18.712 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 01:20:18.712 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 01:20:18.715 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 01:20:18.715 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 01:20:18.717 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 01:21:03.683 [http-nio-8082-exec-2] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateStatusById
+12:01 01:21:03.687 [http-nio-8082-exec-2] [INFO] [c.e.demo.service.LoggingService] - Exiting methodupdateStatusById
+12:01 01:21:23.721 [http-nio-8082-exec-3] [INFO] [c.e.demo.service.LoggingService] - Inside methodupdateStatusById
+12:01 01:21:23.737 [http-nio-8082-exec-3] [INFO] [c.e.demo.service.LoggingService] - Exiting methodupdateStatusById
+12:01 08:52:58.260 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 08:52:58.261 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 08:53:02.292 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 4.123 seconds (JVM running for 39449.373)
+12:01 08:53:02.297 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 08:53:02.464 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 08:53:02.464 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 08:53:02.467 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 08:53:02.467 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 08:53:02.469 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 08:53:02.469 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 08:53:02.472 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 08:57:54.056 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 08:57:54.056 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 08:57:56.070 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 2.038 seconds (JVM running for 39743.152)
+12:01 08:57:56.074 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 08:57:56.112 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 08:57:56.112 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 08:57:56.114 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 08:57:56.114 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 08:57:56.116 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 08:57:56.116 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 08:57:56.118 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 09:17:20.798 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 09:17:20.798 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 09:17:27.648 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 09:17:27.648 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 09:17:45.175 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 09:17:45.176 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 09:18:05.092 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 09:18:05.093 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 09:18:09.092 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 4.049 seconds (JVM running for 40956.173)
+12:01 09:18:09.100 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 09:18:09.135 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 09:18:09.135 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 09:18:09.143 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 09:18:09.143 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 09:18:09.152 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 09:18:09.152 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 09:18:09.161 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 09:18:48.369 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 09:18:48.370 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 09:18:56.051 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 7.703 seconds (JVM running for 41003.132)
+12:01 09:18:56.069 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 09:18:56.094 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 09:18:56.095 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 09:18:56.103 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 09:18:56.103 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 09:18:56.115 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 09:18:56.115 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 09:18:56.127 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 09:19:07.208 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 09:19:07.209 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 09:19:28.190 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 09:19:28.190 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 09:19:31.227 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 3.069 seconds (JVM running for 41038.308)
+12:01 09:19:31.232 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 09:19:31.241 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 09:19:31.241 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 09:19:31.244 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 09:19:31.244 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 09:19:31.247 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 09:19:31.247 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 09:19:31.251 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 09:20:58.682 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 09:20:58.683 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 09:21:05.403 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 09:21:05.404 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 09:21:08.334 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 3.039 seconds (JVM running for 41135.415)
+12:01 09:21:08.337 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 09:21:08.344 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 09:21:08.344 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 09:21:08.346 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 09:21:08.346 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 09:21:08.348 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 09:21:08.349 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 09:21:08.351 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 09:21:43.213 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 09:21:43.213 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 09:21:46.311 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 3.124 seconds (JVM running for 41173.391)
+12:01 09:21:46.314 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 09:21:46.322 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 09:21:46.322 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 09:21:46.324 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 09:21:46.324 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 09:21:46.327 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 09:21:46.327 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 09:21:46.329 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 09:22:10.352 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 09:22:10.352 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 09:22:19.887 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 9.557 seconds (JVM running for 41206.968)
+12:01 09:22:19.904 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 09:22:19.930 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 09:22:19.930 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 09:22:19.938 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 09:22:19.939 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 09:22:19.946 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 09:22:19.946 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 09:22:19.955 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 09:25:13.162 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 09:25:13.162 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 09:25:15.938 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 2.805 seconds (JVM running for 41383.019)
+12:01 09:25:15.942 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 09:25:15.948 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 09:25:15.948 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 09:25:15.951 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 09:25:15.951 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 09:25:15.955 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 09:25:15.955 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 09:25:15.963 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 09:25:26.323 [restartedMain] [INFO] [com.example.demo.OrderClient] - Starting OrderClient on DESKTOP-CQORGQ5 with PID 22372 (E:\workspace\ShoppingAppOrder\target\classes started by caich in E:\workspace\ShoppingAppOrder)
+12:01 09:25:26.323 [restartedMain] [INFO] [com.example.demo.OrderClient] - No active profile set, falling back to default profiles: default
+12:01 09:25:29.434 [restartedMain] [INFO] [com.example.demo.OrderClient] - Started OrderClient in 3.134 seconds (JVM running for 41396.515)
+12:01 09:25:29.438 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 09:25:29.445 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 09:25:29.445 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 09:25:29.447 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 09:25:29.447 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 09:25:29.449 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:01 09:25:29.449 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 09:25:29.451 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
